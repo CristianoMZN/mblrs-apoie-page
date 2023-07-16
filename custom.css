@@ -1,0 +1,8 @@
+.pattern-1 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAAXNSR0IArs4c6QAAABtJREFUGFdjZGBg+M/AwMDIAAVwBjYBsEoMFQBW5gIF0HSEnwAAAABJRU5ErkJggg==);
+  }
+
+.vid-reader {
+    background: url('./imgs/sant`ana.jpg') repeat;
+    background-size: cover;
+}
